@@ -1,0 +1,1 @@
+"This is a multi-service api which is hosted on AWS Fargate container. We can either pass an array of text or array of image paths. For text, we run a sentiment analysis using textblob library of nltk module. For image paths, we run a classification prediction to predict the top 3 classes it belongs to from CIFAR-100 categories" 

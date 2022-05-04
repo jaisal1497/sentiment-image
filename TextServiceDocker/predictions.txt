@@ -1,0 +1,7 @@
+[['movie', '', 0.6], ['pasta', 'delicious', 1.0]]
+[['movie', '', 0.6], ['pasta', 'delicious', 1.0]]
+[['movie', '', -0.2], ['pasta', 'delicious', 1.0]]
+[['cookies', '', 0.0], ['movie', '', 0.5]]
+[['cookies', '', 0.0], ['movie', '', 0.5]]
+[['cookies', '', 0.0], ['movie', '', 0.5]]
+[['cookies', '', 0.0], ['movie', '', 0.5]]
